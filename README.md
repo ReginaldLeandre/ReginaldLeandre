@@ -26,6 +26,16 @@
 <li>Maven
 <li>Hibernate
 </ul>   
+<h2>Contact:</h2>
+📬Email: <a href="leandrereginald@gmail.com">leandrereginald@gmail.com</a><br>
+📌Profile: <a href="www.linkedin.com/in/rleandre1992">LinkedIn</a><br>
+🌟Portfolio:  <a href="">View Here</a><br>
+
+<h3>More about me...</h3>
+🧬Personality: ENFJ according to Myers-Briggs<br>
+🤙🏻Sometimes:\</br>
+
+
 <h2 align="center">Projects</h2> 
 <table>
 <tr>
@@ -41,12 +51,7 @@ M.E.R.N. Stack,
 
 
 
-<h2>Contact:</h2>
-📬Email: <a href="leandrereginald@gmail.com">leandrereginald@gmail.com</a><br>
-📌Profile: <a href="www.linkedin.com/in/rleandre1992">LinkedIn</a><br>
-🌟Portfolio:  <a href="">View Here</a><br>
 
 
-<h3>More about me...</h3>
-🧬Personality: ENFJ according to Myers-Briggs<br>
-🤙🏻Sometimes:\</br>
+
+
