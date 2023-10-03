@@ -28,7 +28,7 @@
 </ul>   
 <h2>Contact:</h2>
 📬Email: <a href="leandrereginald@gmail.com">leandrereginald@gmail.com</a><br>
-📌Profile: <a href="www.linkedin.com/in/rleandre1992">LinkedIn</a><br>
+📌Profile: <a href="https://linkedin.com/in/rleandre1992">LinkedIn</a><br>
 🌟Portfolio:  <a href="">View Here</a><br>
 
 <h3>More about me...</h3>
