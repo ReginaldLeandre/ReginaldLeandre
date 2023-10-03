@@ -33,7 +33,7 @@
 
 <h3>More about me...</h3>
 🧬Personality: ENFJ according to Myers-Briggs<br>
-🤙🏻Sometimes:\</br>
+
 
 
 <h2 align="center">Projects</h2> 
