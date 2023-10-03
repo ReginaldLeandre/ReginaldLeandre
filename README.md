@@ -1,11 +1,10 @@
-<h1>👋 Hi, I’m Emily</h1>
+<h1>👋 Hi, I’m Regi</h1>
 
 
-***<p quote align='center'>"I'm not a great programmer; I'm just a good programmer with great habits"</br>-Kent Back***
+***<p quote align='center'>"All I know is that I know nothing"</br>- Socrates***
 
 ## Currently:
-🌱Learning <a href="https://github.com/EmilyJarecki/foodRecipe" target="_blank">mobile development</a> ~ React Native, Tailwind CSS<br>
-🔨Working in JavaScript, Django and Python.
+🔨Working in JavaScript, Django/Python and Java.
 <br>
 <br>
 <h2>My Languages, Frameworks and Libraries:</h2>
