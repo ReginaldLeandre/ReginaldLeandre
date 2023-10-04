@@ -39,12 +39,6 @@
 <h2 align="center">Projects</h2> 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3><a href="https://github.com/rleandre/JobFrontend" target="_blank">Untitled Job Board Project(Still Under Development)</a></h3>
-Mongdb, Express, React, Node.js, JwtAuth, HTML/CSS, 
- <br></br>
-<img width="50%" alt="Screen Shot 2023-09-02 at 4 13 12 PM" src="https://github.com/rleandre/JobFrontend/blob/main/jobboard/public/images/assets/Home.png">
-</td>
 
 <td align="center" width="33%">
 <h3><a href="https://github.com/ReginaldLeandre/Electronic-Med-Rec-Alt-Repo" target="_blank" >Wavelength: EMR</a></h3>
