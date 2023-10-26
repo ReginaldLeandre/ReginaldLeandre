@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Regi</h1>
 
-
+My Favorite Quote
 ***<p quote align='center'>"All I know is that I know nothing"</br>- Socrates***
 
 ## Currently:
