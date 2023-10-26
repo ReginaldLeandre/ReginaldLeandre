@@ -38,7 +38,7 @@ My Favorite Quote
 <br></br>
 
 
-###📊 Stats
+### GitHub Statistics
 
 ![Reginald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaldLeandre&show_icons=true&theme=buefy)
 
