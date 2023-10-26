@@ -35,6 +35,11 @@ My Favorite Quote
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br/>
 <br/>
+
+### 📊 Stats
+
+![Reginald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaldLeandre&show_icons=true&theme=buefy)
+
 <h2>Contact:</h2>
 📬Email: <a href="leandrereginald@gmail.com">leandrereginald@gmail.com</a><br>
 📌Profile: <a href="https://linkedin.com/in/rleandre1992">LinkedIn</a><br>
@@ -55,7 +60,6 @@ Mongdb, Express, Node.js, GoogleOAuth, OpenAI, HTML/CSS,
  <br></br>
 <img width="50%" alt="Screen Shot 2023-09-02 at 4 13 12 PM" src="https://github.com/william-hu-codes/electronic-medical-record/assets/96082623/4cb21eb0-cac7-409a-8f27-3e47530f81f2">
 </td>
-
 
 
 
