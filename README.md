@@ -43,7 +43,7 @@ My Favorite Quote
 ![Reginald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaldLeandre&show_icons=true&theme=buefy)
 
 <h2>Contact:</h2>
-📬Email: <a href='mailto:leandrereginald@gmail.com'>My Email</a>
+📬Email: <a href='mailto:leandrereginald@gmail.com'>My Email</a><br/>
 📌Profile: <a href="https://linkedin.com/in/rleandre1992">LinkedIn</a><br>
 🌟Portfolio:  <a href="">View Here</a><br>
 
