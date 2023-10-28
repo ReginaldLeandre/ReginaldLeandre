@@ -45,7 +45,7 @@ My Favorite Quote
 <h2>Contact:</h2>
 📬Email: <a href='mailto:leandrereginald@gmail.com'>My Email</a><br/>
 📌Profile: <a href="https://linkedin.com/in/rleandre1992">LinkedIn</a><br>
-🌟Portfolio:  <a href="">View Here</a><br>
+
 
 <h3>More about me...</h3>
 🧬Personality: ENFJ according to Myers-Briggs<br>
