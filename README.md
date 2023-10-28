@@ -4,7 +4,7 @@ My Favorite Quote
 ***<p quote align='center'>"All I know is that I know nothing"</br>- Socrates***
 
 ## Currently:
-🔨Working in JavaScript, Django/Python and Java.
+🔨Working in JavaScript, Django/Python and Java/Spring.
 <br>
 <br>
 <h2>My Languages, Frameworks and Libraries:</h2>
