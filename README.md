@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Two of my favorite quotes in the world are: "All I know is that I know nothing" - Socrates and "So long as there is more than one human on Earth, there will always be conflict" - Commander Pixes (a character in the Attack on Titan series written by Hajime Isayama).
+Two of my favorite quotes in the world are:
+<br></br>"All I know is that I know nothing" - Socrates 
+<br></br>"So long as there is more than one human on Earth, there will always be conflict" - Commander Pixes (a character in the Attack on Titan series written by Hajime Isayama).
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [leandrereginald@gmail.com](mailto:leandrereginald@gmail.com)
