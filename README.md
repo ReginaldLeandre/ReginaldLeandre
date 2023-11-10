@@ -9,7 +9,7 @@ Two of my favorite quotes in the world are:
 <br></br>"So long as there is more than one human on Earth, there will always be conflict" - Commander Pixes (a character in the Attack on Titan series written by Hajime Isayama).
 
 * 🌍  I'm based in West Palm Beach, Florida
-* ✉️  You can contact me at [work4reggie@gmail.com](mailto:work4reggie@gmail.com)
+* ✉️  You can contact me at my [Email](mailto:Leandrereginald@gmail.com)
 * 🧠  I'm learning Django/Python
 
 ### Skills
