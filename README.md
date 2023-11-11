@@ -6,7 +6,7 @@ Full Stack Developer
 
 Two of my favorite quotes in the world are:
 <br></br>"All I know is that I know nothing" - Socrates 
-<br></br>"So long as there is more than one human on Earth, there will always be conflict" - Commander Pixes (a character in the Attack on Titan series written by Hajime Isayama).
+<br></br>"Humanity will never stop fighting itself until it shrinks to a size of one or fewer" - Commander Erwin (a character in the Attack on Titan series written by Hajime Isayama).
 
 * 🌍  I'm based in West Palm Beach, Florida
 * ✉️  You can contact me at my [Email](mailto:Leandrereginald@gmail.com)
