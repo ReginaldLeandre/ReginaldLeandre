@@ -11,6 +11,7 @@ Two of my favorite quotes in the world are:
 * 🌍  I'm based in West Palm Beach, Florida
 * ✉️  You can contact me at my [Email](mailto:Leandrereginald@gmail.com)
 * 🧠  I'm learning Django/Python
+* [![](https://visitcount.itsvg.in/api?id=ReginaldLeandre&icon=1&color=5)](https://visitcount.itsvg.in)
 
 ### Skills
 
